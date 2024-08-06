@@ -2,11 +2,11 @@
 experiments with websocket
 
 ## CRUD Operations
-As a developer\
-I want to have implementation WebSocket-based communication between the back-end and front-end to handle CRUD operations efficiently\
-So that a fron-end will be more interactive.
+**As a** developer\
+**I want to** have implementation WebSocket-based communication between the back-end and front-end to handle CRUD operations efficiently\
+**So that** a fron-end will be more interactive.
 ### System Overview
-- **Back-end (WebSocket server)**: Manages and maintains the data.
+- **Back-end (WebSocket server)**: Manages and maintains the data. [Implementation](https://github.com/Ring-r/ew-websocket-back).
 - **Front-end (WebSocket client)**: Holds a partial copy of the back-end data.
 ### Workflow
 1. **Initial Connection**:
